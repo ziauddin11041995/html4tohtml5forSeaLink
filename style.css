@@ -1,0 +1,30 @@
+
+#wrapper{
+	margin-right: 1px;
+}
+#heading{
+	border-bottom: 1px solid #ccc;
+	padding: 0;
+}
+
+#links{
+	padding-left: 40px;
+	list-style: none;
+}
+#links li{
+	display: inline;
+}
+#results{
+	border: 3px solid red;
+	width:500;
+}
+#element3{
+	text-align: right;
+}
+#image{
+	 border:0;
+	 height:281px;
+	 width:500px;
+	 padding: 15 15px 15px 0px;
+
+}
